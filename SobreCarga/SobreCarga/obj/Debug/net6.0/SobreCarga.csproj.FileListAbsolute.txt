@@ -1,0 +1,15 @@
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\bin\Debug\net6.0\SobreCarga.exe
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\bin\Debug\net6.0\SobreCarga.deps.json
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\bin\Debug\net6.0\SobreCarga.runtimeconfig.json
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\bin\Debug\net6.0\SobreCarga.dll
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\bin\Debug\net6.0\SobreCarga.pdb
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.csproj.AssemblyReference.cache
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.AssemblyInfoInputs.cache
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.AssemblyInfo.cs
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.csproj.CoreCompileInputs.cache
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.dll
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\refint\SobreCarga.dll
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.pdb
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\SobreCarga.genruntimeconfig.cache
+C:\Users\daroj\OneDrive\Documentos\SobreCarga\SobreCarga\obj\Debug\net6.0\ref\SobreCarga.dll
