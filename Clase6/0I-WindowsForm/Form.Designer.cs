@@ -33,11 +33,13 @@
             Tb_Apellido = new TextBox();
             Label_Nombre = new Label();
             Label_Apellido = new Label();
+            Cb_Materia = new ComboBox();
+            Label_Materia = new Label();
             SuspendLayout();
             // 
             // Btn_Saludar
             // 
-            Btn_Saludar.Location = new Point(403, 225);
+            Btn_Saludar.Location = new Point(403, 301);
             Btn_Saludar.Name = "Btn_Saludar";
             Btn_Saludar.Size = new Size(150, 34);
             Btn_Saludar.TabIndex = 0;
@@ -79,11 +81,34 @@
             Label_Apellido.TabIndex = 4;
             Label_Apellido.Text = "Apellido";
             // 
+            // Cb_Materia
+            // 
+            Cb_Materia.FormattingEnabled = true;
+            Cb_Materia.Items.AddRange(new object[] { "Programación II", "Legislación", "Organización contable de la empresa" });
+            Cb_Materia.Location = new Point(180, 253);
+            Cb_Materia.Name = "Cb_Materia";
+            Cb_Materia.Size = new Size(373, 33);
+            Cb_Materia.TabIndex = 5;
+            Cb_Materia.Text = "Programación II";
+            Cb_Materia.UseWaitCursor = true;
+            // 
+            // Label_Materia
+            // 
+            Label_Materia.AutoSize = true;
+            Label_Materia.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            Label_Materia.Location = new Point(180, 213);
+            Label_Materia.Name = "Label_Materia";
+            Label_Materia.Size = new Size(150, 25);
+            Label_Materia.TabIndex = 6;
+            Label_Materia.Text = "Materia favorita";
+            // 
             // Form
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(Label_Materia);
+            Controls.Add(Cb_Materia);
             Controls.Add(Label_Apellido);
             Controls.Add(Label_Nombre);
             Controls.Add(Tb_Apellido);
@@ -106,5 +131,7 @@
         private TextBox Tb_Apellido;
         private Label Label_Nombre;
         private Label Label_Apellido;
+        private ComboBox Cb_Materia;
+        private Label Label_Materia;
     }
 }

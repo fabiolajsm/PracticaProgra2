@@ -1,4 +1,5 @@
 using Saludo;
+using System.Text;
 
 namespace _0I_WindowsForm
 {
@@ -13,16 +14,45 @@ namespace _0I_WindowsForm
         {
             string nombre = this.Tb_Nombre.Text;
             string apellido = this.Tb_Apellido.Text;
-            if (string.IsNullOrEmpty(nombre) && string.IsNullOrEmpty(apellido)) MessageBox.Show("Error. Debe ingresar nombre y apellido.");
-            else if (string.IsNullOrEmpty(nombre)) MessageBox.Show("Error. Debe ingresar un nombre");
-            else if (string.IsNullOrEmpty(apellido)) MessageBox.Show("Error. Debe ingresar un apellido");
-            else
+            string materia = this.Cb_Materia.Text;
+
+            if (Validar(nombre, apellido))
             {
                 string nombreCompleto = $"{nombre} {apellido}";
-                FormSaludar saludar = new FormSaludar(nombreCompleto);
+                FormSaludar saludar = new FormSaludar(nombreCompleto, materia);
                 saludar.Show();
                 this.Hide();
             }
+        }
+
+        private bool Validar(string nombre, string apellido)
+        {
+            bool esValido = true;
+            StringBuilder stringBuilder = new StringBuilder();
+
+            stringBuilder.AppendLine("Se deben completar los siguientes campos:");
+            if (string.IsNullOrEmpty(nombre) && string.IsNullOrEmpty(apellido))
+            {
+                esValido = false;
+                stringBuilder.AppendLine("Nombre y Apellido");
+            }
+            else if (string.IsNullOrWhiteSpace(nombre))
+            {
+                esValido = false;
+                stringBuilder.AppendLine("Nombre");
+            }
+            else if (string.IsNullOrWhiteSpace(apellido))
+            {
+                esValido = false;
+                stringBuilder.AppendLine("Apellido");
+            }
+
+            if (!esValido)
+            {
+                MessageBox.Show(stringBuilder.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            return esValido;
         }
     }
 }
