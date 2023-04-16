@@ -6,5 +6,9 @@ namespace Saludo
         {
             InitializeComponent();
         }
+        public FormSaludar(string nombreCompleto) : this()
+        {
+            Label_Descripcion.Text = $"Soy {nombreCompleto}.";
+        }
     }
 }

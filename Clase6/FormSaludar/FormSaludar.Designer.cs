@@ -29,7 +29,7 @@ partial class FormSaludar
     private void InitializeComponent()
     {
         Label_Titulo = new Label();
-        label1 = new Label();
+        Label_Descripcion = new Label();
         SuspendLayout();
         // 
         // Label_Titulo
@@ -42,22 +42,22 @@ partial class FormSaludar
         Label_Titulo.TabIndex = 0;
         Label_Titulo.Text = "¡Hola, Windows Forms!";
         // 
-        // label1
+        // Label_Descripcion
         // 
-        label1.AutoSize = true;
-        label1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-        label1.Location = new Point(89, 148);
-        label1.Name = "label1";
-        label1.Size = new Size(93, 32);
-        label1.TabIndex = 1;
-        label1.Text = "Soy yo!";
+        Label_Descripcion.AutoSize = true;
+        Label_Descripcion.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+        Label_Descripcion.Location = new Point(89, 148);
+        Label_Descripcion.Name = "Label_Descripcion";
+        Label_Descripcion.Size = new Size(93, 32);
+        Label_Descripcion.TabIndex = 1;
+        Label_Descripcion.Text = "Soy yo!";
         // 
         // FormSaludar
         // 
         AutoScaleDimensions = new SizeF(10F, 25F);
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(800, 450);
-        Controls.Add(label1);
+        Controls.Add(Label_Descripcion);
         Controls.Add(Label_Titulo);
         MaximizeBox = false;
         MinimizeBox = false;
@@ -72,4 +72,5 @@ partial class FormSaludar
 
     private Label Label_Titulo;
     private Label label1;
+    private Label Label_Descripcion;
 }

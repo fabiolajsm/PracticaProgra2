@@ -18,8 +18,8 @@ namespace _0I_WindowsForm
             else if (string.IsNullOrEmpty(apellido)) MessageBox.Show("Error. Debe ingresar un apellido");
             else
             {
-
-                FormSaludar saludar = new FormSaludar();
+                string nombreCompleto = $"{nombre} {apellido}";
+                FormSaludar saludar = new FormSaludar(nombreCompleto);
                 saludar.Show();
                 this.Hide();
             }
