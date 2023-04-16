@@ -1,0 +1,17 @@
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\bin\Debug\net6.0-windows\I02-Registrate.exe
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\bin\Debug\net6.0-windows\I02-Registrate.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.csproj.AssemblyReference.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02_Registrate.FormIngresante.resources
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.csproj.GenerateResource.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.AssemblyInfoInputs.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.AssemblyInfo.cs
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.csproj.CoreCompileInputs.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\refint\I02-Registrate.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.pdb
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\bin\Debug\net6.0-windows\I02-Registrate.deps.json
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\bin\Debug\net6.0-windows\I02-Registrate.runtimeconfig.json
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\bin\Debug\net6.0-windows\I02-Registrate.pdb
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\I02-Registrate.genruntimeconfig.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\Clase6\I02-Registrate\obj\Debug\net6.0-windows\ref\I02-Registrate.dll
