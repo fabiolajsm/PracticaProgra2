@@ -1,0 +1,15 @@
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\bin\Debug\net6.0\EjDosEncapsulamiento.exe
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\bin\Debug\net6.0\EjDosEncapsulamiento.deps.json
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\bin\Debug\net6.0\EjDosEncapsulamiento.runtimeconfig.json
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\bin\Debug\net6.0\EjDosEncapsulamiento.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\bin\Debug\net6.0\EjDosEncapsulamiento.pdb
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.csproj.AssemblyReference.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.AssemblyInfoInputs.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.AssemblyInfo.cs
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\refint\EjDosEncapsulamiento.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.pdb
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\EjDosEncapsulamiento.genruntimeconfig.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\EjDosEncapsulamiento\obj\Debug\net6.0\ref\EjDosEncapsulamiento.dll
