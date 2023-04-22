@@ -19,10 +19,21 @@ namespace JugadoresEncapsulados
             this.cantidadDeJugadores = cantidad;
             this.nombre = nombre;
         }
+        public string MostrarDatos()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append($"Cantidad jugadores : {this.cantidadDeJugadores}, Nombre del equipo: {this.nombre}, ");
+            sb.Append($"Partidos Jugados: ");
+            for ( int i = 0; i < jugadores.Count; i++ )
+            {
+                sb.Append($"{jugadores[i].MostrarDatos()}");
+            }
+            return sb.ToString();
+        }
 
         // Sobrecarga: el operador + agregará jugadores a la lista siempre y cuando no exista aún en el equipo y la cantidad de jugadores no supere el límite establecido por el atributo cantidadDeJugadores.
         public static bool operator +(Equipo equipo, Jugador jugador) { 
-            if(equipo.jugadores.Count == 0 &&  equipo.jugadores.Count <= equipo.cantidadDeJugadores)
+            if(equipo.jugadores.Count == 0 ||  equipo.jugadores.Count < equipo.cantidadDeJugadores)
             {
                 foreach (Jugador item in equipo.jugadores)
                 {
@@ -38,7 +49,6 @@ namespace JugadoresEncapsulados
             {
                 return false;
             }
-
         }
     }
 }

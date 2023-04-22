@@ -1,0 +1,15 @@
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\bin\Debug\net6.0\JugadoresEncapsulados.exe
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\bin\Debug\net6.0\JugadoresEncapsulados.deps.json
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\bin\Debug\net6.0\JugadoresEncapsulados.runtimeconfig.json
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\bin\Debug\net6.0\JugadoresEncapsulados.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\bin\Debug\net6.0\JugadoresEncapsulados.pdb
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.csproj.AssemblyReference.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.AssemblyInfoInputs.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.AssemblyInfo.cs
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.csproj.CoreCompileInputs.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\refint\JugadoresEncapsulados.dll
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.pdb
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\JugadoresEncapsulados.genruntimeconfig.cache
+C:\Users\daroj\OneDrive\Documentos\Fabiola\JugadoresEncapsulados\obj\Debug\net6.0\ref\JugadoresEncapsulados.dll

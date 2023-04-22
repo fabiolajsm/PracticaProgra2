@@ -37,11 +37,11 @@ namespace JugadoresEncapsulados
         public float GetPromedioGoles() {
             return (float)this.partidosJugados / this.totalGoles;
         }
-        public string Mostrar()
+        public string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append($"Nombre : {this.nombre}, DNI: {this.dni.ToString()}");
-            sb.Append($"Partidos Jugados: {this.partidosJugados.ToString()}, Promedio Goles: {GetPromedioGoles().ToString()}");
+            sb.Append($"Nombre : {this.nombre}, DNI: {this.dni.ToString()}, ");
+            sb.Append($"Partidos Jugados: {this.partidosJugados.ToString()}, Promedio Goles: {GetPromedioGoles().ToString()}, ");
             sb.Append($"Total goles: {this.totalGoles.ToString()}");
             return sb.ToString();
         }
