@@ -13,22 +13,38 @@ namespace Clase7
 {
     public class PuestoAtencion
     {
-        private static int numeroActual;
+        public enum Puesto
+        {
+            Caja1, Caja2
+        }
 
-        static PuestoAtencion() { numeroActual = 0; }
+        private static int numeroActual;
+        private Puesto puesto;
+
+        static PuestoAtencion()
+        {
+            PuestoAtencion.numeroActual = 0;
+        }
+        public PuestoAtencion(Puesto puesto)
+        {
+            this.puesto = puesto;
+        }
+
         public static int NumeroActual
         {
             get
             {
-                numeroActual++;
-                return numeroActual;
+                return ++numeroActual;
             }
         }
         public bool Atender(Cliente cliente)
         {
-            // Simular tiempo de atención
-            Thread.Sleep(1000);
-            return true;
+            if (cliente is not null)
+            {
+                Thread.Sleep(3000);
+                return true;
+            }
+            return false;
         }
     }
 }

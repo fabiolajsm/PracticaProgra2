@@ -8,42 +8,25 @@ namespace Clase7
 {
     public class Cliente
     {
-        public int Numero { get; set; }
+        private string Nombre { get; set; }
+        private int Numero { get; set; }
 
-        public override bool Equals(object obj)
+        public Cliente(int numero)
         {
-            if (obj == null || GetType() != obj.GetType())
-            {
-                return false;
-            }
-
-            Cliente other = (Cliente)obj;
-            return Numero == other.Numero;
+            this.Numero = numero;
         }
-
-        public override int GetHashCode()
-        {
-            return Numero.GetHashCode();
-        }
-
-        public static bool operator ==(Cliente c1, Cliente c2)
-        {
-            if (ReferenceEquals(c1, c2))
-            {
-                return true;
-            }
-
-            if (c1 is null || c2 is null)
-            {
-                return false;
-            }
-
-            return c1.Equals(c2);
+        public Cliente(int numero, string nombre) {
+            this.Numero = numero;
+            this.Nombre = nombre;
         }
 
         public static bool operator !=(Cliente c1, Cliente c2)
         {
-            return !(c1 == c2);
+            return !(c1.Numero == c2.Numero);
+        }
+        public static bool operator ==(Cliente c1, Cliente c2)
+        {
+            return c1.Numero == c2.Numero;
         }
     }
 }
