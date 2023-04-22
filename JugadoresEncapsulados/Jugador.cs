@@ -10,14 +10,12 @@ namespace JugadoresEncapsulados
     {
         private int dni;
         private string nombre;
-        private int partidosJugados;
-        private float promedioGoles;
+        private int partidosJugados;        
         private int totalGoles;
 
         private Jugador() {
             // Todos los datos estadísticos del jugador se inicializarán en 0 dentro del constructor privado.
             this.partidosJugados = 0;
-            this.promedioGoles = 0;
             this.totalGoles = 0;
         }
         public Jugador(int dni, string nombre) : this()
@@ -34,14 +32,24 @@ namespace JugadoresEncapsulados
             this.partidosJugados = partidosJugados;
         }
 
-        public float GetPromedioGoles() {
-            return (float)this.partidosJugados / this.totalGoles;
-        }
+        // Propiedades de solo lectura
+        public int PartidosJugados { get { return partidosJugados; } }
+        public float PromedioGoles { get { return (float)this.totalGoles / this.partidosJugados; } }
+        public int TotalGoles { get { return totalGoles; } }
+        
+        // Propiedades de lectura y escritura
+        public string Nombre { get { return nombre; } set { nombre = value; } }
+        public int Dni { get { return dni; } set { dni = value; } }
+
+        //Quitar el método GetPromedioGoles, colocando dicha lógica en la respectiva propiedad.
+       /* public float GetPromedioGoles() {
+            return (float)this.totalGoles / this.partidosJugados; 
+        }*/
         public string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
             sb.Append($"Nombre : {this.nombre}, DNI: {this.dni.ToString()}, ");
-            sb.Append($"Partidos Jugados: {this.partidosJugados.ToString()}, Promedio Goles: {GetPromedioGoles().ToString()}, ");
+            sb.Append($"Partidos Jugados: {this.partidosJugados.ToString()}, Promedio Goles: {PromedioGoles.ToString()}, ");
             sb.Append($"Total goles: {this.totalGoles.ToString()}");
             return sb.ToString();
         }
