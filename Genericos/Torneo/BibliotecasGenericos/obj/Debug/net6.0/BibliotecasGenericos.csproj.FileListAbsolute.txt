@@ -1,0 +1,12 @@
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.csproj.AssemblyReference.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.AssemblyInfoInputs.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.AssemblyInfo.cs
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.csproj.CoreCompileInputs.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\bin\Debug\net6.0\BibliotecasGenericos.deps.json
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\bin\Debug\net6.0\BibliotecasGenericos.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\bin\Debug\net6.0\BibliotecasGenericos.pdb
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\refint\BibliotecasGenericos.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\BibliotecasGenericos.pdb
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Genericos\BibliotecasGenericos\obj\Debug\net6.0\ref\BibliotecasGenericos.dll
