@@ -1,0 +1,12 @@
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\bin\Debug\net6.0\FuncionesPrueba.deps.json
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\bin\Debug\net6.0\FuncionesPrueba.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\bin\Debug\net6.0\FuncionesPrueba.pdb
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.csproj.AssemblyReference.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.AssemblyInfoInputs.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.AssemblyInfo.cs
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.csproj.CoreCompileInputs.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\refint\FuncionesPrueba.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\FuncionesPrueba.pdb
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\PruebasUnitarias\FuncionesPrueba\obj\Debug\net6.0\ref\FuncionesPrueba.dll
