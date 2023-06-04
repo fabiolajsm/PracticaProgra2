@@ -1,0 +1,17 @@
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.exe
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.deps.json
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\bin\Debug\net6.0-windows\WinFormsApp.pdb
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.Form1.resources
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\refint\WinFormsApp.dll
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.pdb
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\suare\OneDrive\Documents\PracticaProgra2\Archivos\I02_Parseador\WinFormsApp\obj\Debug\net6.0-windows\ref\WinFormsApp.dll
